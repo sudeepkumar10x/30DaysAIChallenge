@@ -15,3 +15,7 @@ version = session.sql("SELECT CURRENT_VERSION()").collect()[0][0]
 
 # Show results
 st.success(f"Successfully connected! Snowflake Version: {version}")
+
+# Footer
+st.divider()
+st.caption("Day 1: Connect with Snowflake | 30 Days of AI")
