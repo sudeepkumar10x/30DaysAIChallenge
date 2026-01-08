@@ -4,27 +4,27 @@ Welcome to the 30 Days of AI Coding Challenge by Streamlit 🚀
 In this series, we’ll build one AI app every day for 30 days using Python and Streamlit — step by step, in simple language, with zero jargon.
 
 ## This challenge is designed for:
-Beginners in AI
-Non-CS backgrounds
-Data, Analytics & IT professionals
-Anyone curious about AI but feeling overwhelmed
+1. Beginners in AI
+2. Non-CS backgrounds
+3. Data, Analytics & IT professionals
+. Anyone curious about AI but feeling overwhelmed
 
 # 🔥 What you’ll learn in this challenge
-Week 1: AI basics, first LLM calls, streaming & caching
-Week 2: Building chatbots & managing session state
-Week 3: RAG applications using your own data
-Week 4: Multimodal AI, AI agents & deploying AI apps
+### Week 1: AI basics, first LLM calls, streaming & caching
+### Week 2: Building chatbots & managing session state
+### Week 3: RAG applications using your own data
+### Week 4: Multimodal AI, AI agents & deploying AI apps
 
 ## 📅 How the challenge works
-One new coding challenge every day
-Clear explanations in layman's language
-Hands-on coding with real examples
-Beginner-friendly pace
+* One new coding challenge every day
+* Clear explanations in layman's language
+* Hands-on coding with real examples
+* Beginner-friendly pace
 
 ## 🛠 Prerequisites
-Python 3.10+
-Basic Python knowledge
-Free Snowflake trial account with Cortex AI enabled
+* Python 3.10+
+* Basic Python knowledge
+* Free Snowflake trial account with Cortex AI enabled
 
 
 ## Resources: 
