@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - pypdf=6.0.0
+  - python=3.11.*
+  - snowflake-ml-python=1.20.0
+  - snowflake-snowpark-python=
+  - streamlit=
+  - trulens-connectors-snowflake=2.4.2
+  - trulens-core=2.4.2
