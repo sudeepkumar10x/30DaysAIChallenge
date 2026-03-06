@@ -46,6 +46,6 @@ https://docs.snowflake.com/en/developer-guide/snowpark/python/index
 7. Get started with Streamlit
 https://docs.streamlit.io/get-started
 
-## Connect with Sudeep:
-https://www.linkedin.com/in/sudeepkumar10x/
-
+## Connect with Sudeep Kumar:
+LinkedIn: https://www.linkedin.com/in/sudeepkumar10x/
+YouTube: https://www.youtube.com/channel/UC0GwKkb6teqAm8nQm2kQVWA
